@@ -13,7 +13,7 @@ This project implements a Conversational AI Authentication System with two disti
 
 ### 2. Text-Based Conversational Authentication (Module 2)
 - Takes a descriptive input from the user (e.g., details about the user’s background), instead of security questions.
-- Generates questions dynamically from the input using an AI model (`GenerativeModel`).
+- Generates questions dynamically from the input using an AI model (`Gemini-Pro`).
 - Validates the answers provided by the user for authentication.
 - This is extensible to scrapping data from user activity and then posing questions.
 
